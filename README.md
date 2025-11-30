@@ -1,10 +1,10 @@
-# flutter_application_4
+# Flutter sample shoe app (Dart - Stateless)
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A new starter for making flutter check links below to get started!
 
 A few resources to get you started if this is your first Flutter project:
 
