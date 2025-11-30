@@ -1,9 +1,5 @@
 # Flutter sample shoe app (Dart - Stateless)
 
-A new Flutter project.
-
-## Getting Started
-
 A new starter for making flutter check links below to get started!
 
 A few resources to get you started if this is your first Flutter project:
